@@ -7,21 +7,21 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+__**Describe the bug**__
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+__**To Reproduce**__
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+__**Expected behavior**__
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+__**Screenshots**__
 If applicable, add screenshots to help explain your problem.
 
-**Additional context**
+__**Additional context**__
 Add any other context about the problem here.
