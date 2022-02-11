@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**Quick Description**
+__**Quick Description**__
 A clear and concise description of what you want to happen.
 
-**Additional context**
+__**Additional context**__
 Add any other context or screenshots about the feature request here.
 
-**Links**
+__**Links**__
 Any links that may be relevant to the feature request.
