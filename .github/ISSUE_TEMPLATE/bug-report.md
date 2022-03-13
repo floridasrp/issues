@@ -1,11 +1,14 @@
 ---
 name: Bug Report
 about: Create a bug report
-title: ''
+title: '[resource] title'
 labels: bug
 assignees: ''
 
 ---
+
+## Please read then delete the following
+If the resource name is unknown, delete [resource]; otherwise, replace resource with the resource name. Ex. [sample_util] Syntax Error.
 
 __**Describe the bug**__
 A clear and concise description of what the bug is.
